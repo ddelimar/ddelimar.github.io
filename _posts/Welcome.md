@@ -1,4 +1,8 @@
-#Welcome
+layout: post
+title: Welcome
+-
+
+{{ page.title }}
 
 I've always hated the "welcome" messages on websites, almost as much as "in construction" ones.
 
