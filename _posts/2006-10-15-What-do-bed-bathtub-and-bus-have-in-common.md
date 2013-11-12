@@ -5,7 +5,6 @@ category: home
 description: 
 keywords: 
 ---
-{% include JB/setup %}
 
 #{{ page.title }}
 

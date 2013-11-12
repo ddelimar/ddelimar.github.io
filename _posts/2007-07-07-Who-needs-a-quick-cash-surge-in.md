@@ -5,7 +5,6 @@ category: home
 description: How to get out of a cash flow crisis.
 keywords: cash-flow crisis, cash injection, business turnaround
 ---
-{% include JB/setup %}
 
 #{{ page.title }}
 
