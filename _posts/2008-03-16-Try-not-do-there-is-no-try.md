@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Try not - do! There is no try
-category: success-quotes
+title: "Try not - do! There is no try"
+category: success
 description: 
 keywords: 
 ---
